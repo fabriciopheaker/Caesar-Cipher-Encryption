@@ -45,5 +45,5 @@ The core idea behind the Caesar Cipher is to shift each letter in the plaintext 
 
 # Author
 This project was created by Fabricio Pheaker. It serves as a demonstration of the basic principles of encryption using the Caesar Cipher and provides a simple tool for encrypting and decrypting messages.
-Fabricio Pheaker - [Meu LinkedIn](https://www.linkedin.com/in/fabricio-pheaker/) - [Meu GitHub](https://github.com/fabriciopheaker)
+Fabricio Pheaker - [My LinkedIn](https://www.linkedin.com/in/fabricio-pheaker/) - [My GitHub](https://github.com/fabriciopheaker)
 
